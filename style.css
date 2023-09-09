@@ -1,0 +1,41 @@
+html {
+    background-color: #cfc08c;
+    text-align: center;
+    margin: 20px;
+    margin-top: 0px;
+    
+}
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-weight: 900    ;
+    margin-bottom: 0px;
+    margin-top: 5px;
+    background-color: #ffde7c;
+}
+
+h2 {
+    font-family: 'Dancing Script', cursive;
+    margin-bottom: 5px;
+    background-color: #ffde7c;
+    margin-left: 90px;
+    margin-right: 90px;
+
+    
+}
+h4 {
+    font-family: 'Dancing Script', cursive;
+    margin-top: 5px;
+    
+}
+
+#photo1 {
+    margin-top: 0px;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: black;
+}
